@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Wésley</h1>
-<h3>Sou um estudante de desenvolvimento web. Soluções do dia a dia e entretenimento através do desenvolvimento são coisas que me fazem querer praticar e aprender cada vez mais dentro dessa área da tecnologia.</h3>
+<h3></h3>
 
 **Contato:**
 
